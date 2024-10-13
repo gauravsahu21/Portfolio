@@ -1,6 +1,6 @@
-<!-- <h2 align="center">
+<h2 align="center">
   Portfolio Website<br/>
-  <a href="https://gaurav.vercel.app/" target="_blank">Gaurav Kumar</a>
+  <a href="https://gaurav-portfolio21.vercel.app/" target="_blank">Gaurav Kumar</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/gaurav.png" />
@@ -13,25 +13,25 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/gaurav4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/gaurav4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/gauravsahu21/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/gauravsahu21/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/gaurav4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/gauravsahu21/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/gaurav4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/gauravsahu21/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [gaurav4419](https://github.com/gaurav4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [gauravsahu21](https://github.com/gauravsahu21/Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://gaurav.vercel.app/" target="_blank">gaurav.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://gaurav-portfolio21.vercel.app/" target="_blank">gaurav.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -72,4 +72,4 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
- -->
+
